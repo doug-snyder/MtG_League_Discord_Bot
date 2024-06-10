@@ -1,0 +1,1 @@
+ngrok http --domain=apt-boxer-beloved.ngrok-free.app 3000
